@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Version of Real Estate Agency website with valid markup. Website is available in the Internet and can be reached via following link: https://madinc63.github.io/21_valid_markup/
 
 # Project Goals
 
